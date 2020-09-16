@@ -1,0 +1,41 @@
+Sep 15 04:20:54 http.c:304 moloch_http_send_sync(): 1/1 SYNC 200 http://localhost:9200/_template/sessions2_template?filter_path=**._meta&include_type_name=true 0/80 15ms 525ms
+Sep 15 04:20:54 http.c:304 moloch_http_send_sync(): 1/1 SYNC 404 http://localhost:9200/sequence/sequence/fn-localhost 0/78 0ms 35ms
+Sep 15 04:20:54 http.c:304 moloch_http_send_sync(): 1/1 SYNC 200 http://localhost:9200/files/file/_search?size=1&sort=num:desc&q=node:localhost 0/162 0ms 314ms
+Sep 15 04:20:54 http.c:304 moloch_http_send_sync(): 1/1 SYNC 201 http://localhost:9200/sequence/sequence/fn-localhost 2/174 0ms 11ms
+Sep 15 04:20:54 http.c:304 moloch_http_send_sync(): 1/1 SYNC 404 http://localhost:9200/stats/stat/localhost 0/68 0ms 3ms
+Sep 15 04:20:54 http.c:304 moloch_http_send_sync(): 1/1 SYNC 200 http://localhost:9200/fields/field/_search?size=3000 0/13227 0ms 35ms
+Sep 15 04:20:54 db.c:2351 moloch_db_init(): WARNING - No Geo Country file could be loaded, see https://molo.ch/settings#geolite2country
+Sep 15 04:20:54 db.c:2361 moloch_db_init(): WARNING - No Geo ASN file could be loaded, see https://molo.ch/settings#geolite2asn
+Sep 15 04:20:54 config.c:819 moloch_config_monitor_file(): Couldn't stat oui file file /data/moloch/etc/oui.txt error No such file or directory
+Sep 15 04:20:55 http.c:304 moloch_http_send_sync(): 1/1 SYNC 200 http://localhost:9200/_template/sessions2_template?filter_path=**._meta&include_type_name=true 0/80 3ms 132ms
+Sep 15 04:20:55 http.c:304 moloch_http_send_sync(): 1/1 SYNC 200 http://localhost:9200/sequence/sequence/fn-localhost 0/120 0ms 121ms
+Sep 15 04:20:55 http.c:304 moloch_http_send_sync(): 1/1 SYNC 200 http://localhost:9200/sequence/sequence/fn-localhost 2/174 0ms 14ms
+Sep 15 04:20:55 http.c:304 moloch_http_send_sync(): 1/1 SYNC 404 http://localhost:9200/stats/stat/localhost 0/68 0ms 2ms
+Sep 15 04:20:55 http.c:304 moloch_http_send_sync(): 1/1 SYNC 200 http://localhost:9200/fields/field/_search?size=3000 0/13227 0ms 44ms
+Sep 15 04:20:55 db.c:2351 moloch_db_init(): WARNING - No Geo Country file could be loaded, see https://molo.ch/settings#geolite2country
+Sep 15 04:20:55 db.c:2361 moloch_db_init(): WARNING - No Geo ASN file could be loaded, see https://molo.ch/settings#geolite2asn
+Sep 15 04:20:55 config.c:819 moloch_config_monitor_file(): Couldn't stat oui file file /data/moloch/etc/oui.txt error No such file or directory
+Sep 15 04:20:55 http.c:304 moloch_http_send_sync(): 1/1 SYNC 200 http://localhost:9200/_template/sessions2_template?filter_path=**._meta&include_type_name=true 0/80 3ms 39ms
+Sep 15 04:20:55 http.c:304 moloch_http_send_sync(): 1/1 SYNC 200 http://localhost:9200/sequence/sequence/fn-localhost 0/120 0ms 16ms
+Sep 15 04:20:55 http.c:304 moloch_http_send_sync(): 1/1 SYNC 200 http://localhost:9200/sequence/sequence/fn-localhost 2/174 0ms 12ms
+Sep 15 04:20:55 http.c:304 moloch_http_send_sync(): 1/1 SYNC 404 http://localhost:9200/stats/stat/localhost 0/68 0ms 3ms
+Sep 15 04:20:55 http.c:304 moloch_http_send_sync(): 1/1 SYNC 200 http://localhost:9200/fields/field/_search?size=3000 0/13226 0ms 18ms
+Sep 15 04:20:55 db.c:2351 moloch_db_init(): WARNING - No Geo Country file could be loaded, see https://molo.ch/settings#geolite2country
+Sep 15 04:20:55 db.c:2361 moloch_db_init(): WARNING - No Geo ASN file could be loaded, see https://molo.ch/settings#geolite2asn
+Sep 15 04:20:55 config.c:819 moloch_config_monitor_file(): Couldn't stat oui file file /data/moloch/etc/oui.txt error No such file or directory
+Sep 15 04:20:56 http.c:304 moloch_http_send_sync(): 1/1 SYNC 200 http://localhost:9200/_template/sessions2_template?filter_path=**._meta&include_type_name=true 0/80 8ms 46ms
+Sep 15 04:20:56 http.c:304 moloch_http_send_sync(): 1/1 SYNC 200 http://localhost:9200/sequence/sequence/fn-localhost 0/120 0ms 21ms
+Sep 15 04:20:56 http.c:304 moloch_http_send_sync(): 1/1 SYNC 200 http://localhost:9200/sequence/sequence/fn-localhost 2/174 0ms 15ms
+Sep 15 04:20:56 http.c:304 moloch_http_send_sync(): 1/1 SYNC 404 http://localhost:9200/stats/stat/localhost 0/68 0ms 5ms
+Sep 15 04:20:56 http.c:304 moloch_http_send_sync(): 1/1 SYNC 200 http://localhost:9200/fields/field/_search?size=3000 0/13227 0ms 35ms
+Sep 15 04:20:56 db.c:2351 moloch_db_init(): WARNING - No Geo Country file could be loaded, see https://molo.ch/settings#geolite2country
+Sep 15 04:20:56 db.c:2361 moloch_db_init(): WARNING - No Geo ASN file could be loaded, see https://molo.ch/settings#geolite2asn
+Sep 15 04:20:56 config.c:819 moloch_config_monitor_file(): Couldn't stat oui file file /data/moloch/etc/oui.txt error No such file or directory
+Sep 15 04:20:57 http.c:304 moloch_http_send_sync(): 1/1 SYNC 200 http://localhost:9200/_template/sessions2_template?filter_path=**._meta&include_type_name=true 0/80 3ms 33ms
+Sep 15 04:20:57 http.c:304 moloch_http_send_sync(): 1/1 SYNC 200 http://localhost:9200/sequence/sequence/fn-localhost 0/120 0ms 3ms
+Sep 15 04:20:57 http.c:304 moloch_http_send_sync(): 1/1 SYNC 200 http://localhost:9200/sequence/sequence/fn-localhost 2/174 0ms 6ms
+Sep 15 04:20:57 http.c:304 moloch_http_send_sync(): 1/1 SYNC 404 http://localhost:9200/stats/stat/localhost 0/68 0ms 2ms
+Sep 15 04:20:57 http.c:304 moloch_http_send_sync(): 1/1 SYNC 200 http://localhost:9200/fields/field/_search?size=3000 0/13226 0ms 12ms
+Sep 15 04:20:57 db.c:2351 moloch_db_init(): WARNING - No Geo Country file could be loaded, see https://molo.ch/settings#geolite2country
+Sep 15 04:20:57 db.c:2361 moloch_db_init(): WARNING - No Geo ASN file could be loaded, see https://molo.ch/settings#geolite2asn
+Sep 15 04:20:57 config.c:819 moloch_config_monitor_file(): Couldn't stat oui file file /data/moloch/etc/oui.txt error No such file or directory
